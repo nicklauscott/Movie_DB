@@ -135,7 +135,6 @@ object AppModule {
     }
 
 
-    // SimilarTvShowLIst
     @Singleton
     @Provides
     fun provideGetSimilarTvShowLIst(tvShowRepository: TvShowRepository): GetSimilarTvShowLIst {
