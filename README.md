@@ -43,7 +43,7 @@ Based on the UI design and functionality, this appears to be built with:
 
 | Home Screen | Move Detail Screen | TV Detail Screen | Search Screen |
 |--------------|--------------|----------------|---------------|
-| ![Home](assets/ScreenShot1.jpg) | ![Move_Detail](assets/ScreenShot2.jpg) | ![TV_Detail](assets/ScreenShot3.jpg) | ![Search_Screen](assets/ScreenShot4.jpg) |
+| ![Home](assets/ScreenShot1.png) | ![Move_Detail](assets/ScreenShot2.png) | ![TV_Detail](assets/ScreenShot3.png) | ![Search_Screen](assets/ScreenShot4.png) |
 
 ---
 
